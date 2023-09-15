@@ -2,6 +2,9 @@
 using System;
 using System.IO;
 using System.Collections.Generic;
+using SkiaSharp;
+using System.Net.Http;
+using System.Threading.Tasks;
 
 namespace CatWorx.BadgeMaker
 {
@@ -41,6 +44,22 @@ namespace CatWorx.BadgeMaker
                 }
             }
 
+        }
+        //! MAKE BADGES
+        async public static Task MakeBadges(List<Employee> employees)  // async keyword allows us to use the await keyword inside the method
+        {
+            // instance of HttpClient is disposable, so we use the 'using' keyword to create it and dispose of it immediately after the code in the block executes
+            using(HttpClient client = new HttpClient())
+            {
+                for (int i=0; i < employees.Count; i++)
+                {
+
+                }
+            }
+
+            // SKImage newImage = SKImage.FromEncodedData(File.OpenRead("badge.png"));  // FromEncodedData() method takes a stream as an argument, so we use File.OpenRead() to open the file and pass it to the method
+            // SKData data = newImage.Encode(); // using the Encode() method to encode the image into a byte array, by default () it encodes it as a PNG
+            // data.SaveTo(File.OpenWrite("data/employeeBadge.png"));  // SaveTo() method allows us to save the image to a file, we use File.OpenWrite() to open the file and pass it to the method
         }
     }
 }
