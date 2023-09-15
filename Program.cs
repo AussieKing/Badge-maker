@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace CatWorx.BadgeMaker
+namespace YourCompany.BadgeMaker
 {
   class Program
   {

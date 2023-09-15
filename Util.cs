@@ -6,7 +6,7 @@ using SkiaSharp;
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace CatWorx.BadgeMaker
+namespace YourCompany.BadgeMaker
 {
     class Util
     {

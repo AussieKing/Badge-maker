@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CW9OdPY41/VJdxQH4X9RiyKUh4mhBkV+DcQWRwIBinMCkDCGX2iH+Yke6Uap6hsNOM3RSead5mnn92mgMhBDBQ==",
+  "dgSpecHash": "i6uzkDjJGkfn+CdImOLsN/fjUNG4auSl2vS9uQReoaJPK2VY60LQFsGKWOo9QVLav+GlVSLGdhkBxTNZw2XRew==",
   "success": true,
-  "projectFilePath": "/Users/freddydordoni/bootcamp/practice/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
+  "projectFilePath": "/Users/freddydordoni/bootcamp/practice/YourCompany.BadgeMaker/YourCompany.BadgeMaker.csproj",
   "expectedPackageFiles": [
     "/Users/freddydordoni/.nuget/packages/skiasharp/2.88.0/skiasharp.2.88.0.nupkg.sha512",
     "/Users/freddydordoni/.nuget/packages/skiasharp.nativeassets.macos/2.88.0/skiasharp.nativeassets.macos.2.88.0.nupkg.sha512",

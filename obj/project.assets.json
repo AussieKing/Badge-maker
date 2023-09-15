@@ -209,11 +209,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/freddydordoni/bootcamp/practice/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
-      "projectName": "CatWorx.BadgeMaker",
-      "projectPath": "/Users/freddydordoni/bootcamp/practice/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
+      "projectUniqueName": "/Users/freddydordoni/bootcamp/practice/YourCompany.BadgeMaker/YourCompany.BadgeMaker.csproj",
+      "projectName": "YourCompany.BadgeMaker",
+      "projectPath": "/Users/freddydordoni/bootcamp/practice/YourCompany.BadgeMaker/YourCompany.BadgeMaker.csproj",
       "packagesPath": "/Users/freddydordoni/.nuget/packages/",
-      "outputPath": "/Users/freddydordoni/bootcamp/practice/CatWorx.BadgeMaker/obj/",
+      "outputPath": "/Users/freddydordoni/bootcamp/practice/YourCompany.BadgeMaker/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/freddydordoni/.nuget/NuGet/NuGet.Config"
